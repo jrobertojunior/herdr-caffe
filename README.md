@@ -4,7 +4,7 @@ A toggle button for the [Herdr](https://herdr.dev) tab bar that keeps your
 computer awake. Click it once to stop display sleep and idle sleep. Click it
 again to let the computer sleep as usual.
 
-![Caffe: the button off, then on](preview.png)
+![Caffe: one click turns keep-awake on](preview.png)
 
 | Platform | What the button runs |
 |---|---|
